@@ -1,0 +1,1 @@
+The contents of this file will be copied to File_02 via help of fs.copyFileSync
