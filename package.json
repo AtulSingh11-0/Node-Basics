@@ -1,0 +1,22 @@
+{
+  "name": "node-basics",
+  "version": "1.0.0",
+  "description": "Practicing the basics of Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AtulSingh11-0/Node-Basics.git"
+  },
+  "author": "Atul Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AtulSingh11-0/Node-Basics/issues"
+  },
+  "homepage": "https://github.com/AtulSingh11-0/Node-Basics#readme",
+  "dependencies": {
+    "superheroes": "^3.0.0"
+  }
+}
